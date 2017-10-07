@@ -2,7 +2,7 @@
 title: 'Schedule'
 published: true
 ---
-#### [Week 1 (Jan 5th - 11th)](/home/week-01)
+#### [Week 1 (Jan xxth - xxth)](/home/week-01)
 **What is usability and user experience design?**  
 [UX Topic Summary Assignment](https://canvas.sfu.ca/courses/25492/assignments/142519) due Mar 29th, 5:30pm  
 [Course Overview Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder/)  
