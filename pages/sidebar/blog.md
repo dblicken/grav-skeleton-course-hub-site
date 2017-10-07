@@ -14,7 +14,6 @@ hidegitrepoeditlink: false
 
 ##### Course Facilitators
 [Robin DeRosa](http://robinderosa.net/)
-17 High Street - MSC 43
 Plymouth State University
 Plymouth, NH 03264
 [robinderosa1@gmail.com](robinderosa1@gmail.com)
