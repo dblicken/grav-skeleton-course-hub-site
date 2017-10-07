@@ -21,7 +21,6 @@ Plymouth, NH 03264
 Dan Blickensderfer
 [dblicken@gmail.com](dblicken@gmail.com)
 
-
 ##### Course LMS
 [Calendar](https://canvas.sfu.ca/calendar)  
 [Assignments](https://canvas.sfu.ca/courses/25492/assignments)  
