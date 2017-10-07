@@ -1,14 +1,23 @@
 ---
-title: 'Sidebar'
+title: Sidebar
 published: false
 routable: false
 ---
 
 ##### Course Facilitators
-Some Name  
-<somename@somewhere.edu>   
-Office hours Mon. 4:00-5:15pm  
-Harbour Centre 2146  
+Robin DeRosa
+17 High Street - MSC 43
+Plymouth State University
+Plymouth, NH 03264
+rderosa@plymouth.edu
+(for PSU business)
+robinderosa1@gmail.com
+(for all other business)
+
+Office Hours:
+Lamson Library 003
+M & T all day
+other days by appt.
 
 Another Name  
 <anothername@somewhere.edu>  
