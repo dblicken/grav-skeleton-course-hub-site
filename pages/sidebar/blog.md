@@ -17,9 +17,9 @@ Robin DeRosa
 17 High Street - MSC 43
 Plymouth State University
 Plymouth, NH 03264
-rderosa@plymouth.edu
+[rderosa@plymouth.edu](rderosa@plymouth.edu)
 (for PSU business)
-robinderosa1@gmail.com
+[robinderosa1@gmail.com](robinderosa1@gmail.com)
 (for all other business)
 
 Office Hours:
@@ -27,8 +27,9 @@ Lamson Library 003
 M & T all day
 other days by appt.
 
-Another Name  
-<anothername@somewhere.edu>  
+Dan Blickensderfer
+[dblicken@gmail.com](dblicken@gmail.com)
+
 
 ##### Canvas LMS
 [Calendar](https://canvas.sfu.ca/calendar)  
