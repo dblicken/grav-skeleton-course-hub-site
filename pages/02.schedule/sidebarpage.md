@@ -4,7 +4,7 @@ published: true
 ---
 #### [Week 1 (Jan 22nd - 26th)](/home/week-01)
 **What is Open Pedagogy?**  
-[Open Pedagogy Topic Summary Assignment](https://canvas.sfu.ca/courses/25492/assignments/142519) due Mar 29th, 5:30pm  
+[Open Pedagogy Topic Summary Assignment](https://canvas.sfu.ca/courses/25492/assignments/142519) due Jan 28th, 5:30pm  
 [Course Overview Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder/)  
 [Introduction to UX Design Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder/)   
 
