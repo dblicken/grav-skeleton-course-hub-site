@@ -13,19 +13,11 @@ hidegitrepoeditlink: false
 ---
 
 ##### Course Facilitators
-Robin DeRosa
+[http://robinderosa.net/](Robin DeRosa)
 17 High Street - MSC 43
 Plymouth State University
 Plymouth, NH 03264
-[rderosa@plymouth.edu](rderosa@plymouth.edu)
-(for PSU business)
 [robinderosa1@gmail.com](robinderosa1@gmail.com)
-(for all other business)
-
-Office Hours:
-Lamson Library 003
-M & T all day
-other days by appt.
 
 Dan Blickensderfer
 [dblicken@gmail.com](dblicken@gmail.com)
