@@ -31,4 +31,4 @@ Dan Blickensderfer
 [Grades](https://canvas.sfu.ca/grades)  
 
 ##### Twitter
-<a class="twitter-timeline" href="https://twitter.com/Dan_Blick?ref_src=twsrc%5Etfw">Tweets by Dan_Blick</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=Dan_Blick&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Dan_Blick</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
