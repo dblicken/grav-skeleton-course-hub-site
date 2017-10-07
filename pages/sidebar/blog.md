@@ -16,10 +16,10 @@ hidegitrepoeditlink: false
 Robin DeRosa 
 [http://robinderosa.net/](http://robinderosa.net)
 Plymouth State University
-[robinderosa1@gmail.com](robinderosa1@gmail.com)
+[robinderosa1@gmail.com](mailto:robinderosa1@gmail.com)
 
 Dan Blickensderfer
-[dblicken@gmail.com](dblicken@gmail.com)
+[dblicken@gmail.com](mailto:dblicken@gmail.com)
 
 ##### Course LMS
 [Calendar](https://canvas.sfu.ca/calendar)  
