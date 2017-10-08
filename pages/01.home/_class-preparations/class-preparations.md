@@ -6,7 +6,7 @@ published: true
 ### Jan xxth Class Preparations
 
 ##### Required Readings
-[Persona Empathy Mapping](http://www.digitalpedagogylab.com/open-pedagogy-social-justice/)
+[OPEN PEDAGOGY AND SOCIAL JUSTICE](http://www.digitalpedagogylab.com/open-pedagogy-social-justice/)
 
 [Required Reading Quiz](https://example.com)
 
