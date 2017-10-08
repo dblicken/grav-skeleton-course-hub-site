@@ -28,7 +28,7 @@ Dan Blickensderfer
 [Grades](https://canvas.sfu.ca/grades)  
 
 ##### Course Slack Channel
-[Course Slack Channel](https://open-pedagogy.slack.com/messages/C7FTKTXUN/)
+[open-pedagogy.slack.com](https://open-pedagogy.slack.com/messages/C7FTKTXUN/)
 
 ##### Twitter
 <a href="https://twitter.com/intent/tweet?screen_name=actualham&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @actualham</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
