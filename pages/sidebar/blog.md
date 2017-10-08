@@ -13,7 +13,7 @@ hidegitrepoeditlink: false
 ---
 
 ##### Course Facilitators
-[Robin DeRosa](http://robinderosa.net/about)
+[Dr. Robin DeRosa](http://robinderosa.net/about)
 Plymouth State University
 [robinderosa1@gmail.com](mailto:robinderosa1@gmail.com)
 
